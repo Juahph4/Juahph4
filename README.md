@@ -9,3 +9,5 @@
 
 
 <h3 align="left">Connect with me:</h3>
+
+<a href="mailto:juahph4@gmail.com">:v</a>
