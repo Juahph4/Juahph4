@@ -12,3 +12,7 @@
 
 <a href="mailto:juahph4@gmail.com"><img style="width: 30px;" src="https://logodownload.org/wp-content/uploads/2018/03/gmail-logo-4-1.png"/></a>
 <a href="https://t.me/Slarpprodev"><img style="position:relative; top:10; width: 35px;" src="https://logodownload.org/wp-content/uploads/2017/11/telegram-logo-0-1.png"></a>
+
+<h3 align="left">Donate</h3>
+
+<a href="https://paypal.me/Tuscuentascom?country.x=CO&locale.x=es_XC"><img style="width: 40px;" src="https://logodownload.org/wp-content/uploads/2014/10/paypal-logo-0.png"></a>
