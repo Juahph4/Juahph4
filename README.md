@@ -10,4 +10,4 @@
 
 <h3 align="left">Contact with me:</h3>
 
-<a href="mailto:juahph4@gmail.com"><img src="https://logodownload.org/wp-content/uploads/2018/03/gmail-logo-4-1.png"/></a>
+<a href="mailto:juahph4@gmail.com"><img style="width: 30px;" src="https://logodownload.org/wp-content/uploads/2018/03/gmail-logo-4-1.png"/></a>
