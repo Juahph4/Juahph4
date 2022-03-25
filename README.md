@@ -3,19 +3,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Juahph4&label=Profile%20views&color=0e75b6&style=flat" alt="Juahph4" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=r0ld3x" alt="r0ld3x" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Juahph4" alt="Juahph4" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/r0ld3x" target="blank"><img src="https://img.shields.io/twitter/follow/r0ld3x?logo=twitter&style=for-the-badge" alt="r0ld3x" /></a> </p>
+<p align="left"> <a href="https://twitter.com/Slarpprodev" target="blank"><img src="https://img.shields.io/twitter/follow/Slarpprodev?logo=twitter&style=for-the-badge" alt="JUahph4" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [www.roldex.xyz](https://www.roldex.xyz)
-
-- 💬 Ask me about **[Python](https://www.python.org), [Redis](https://redis.com)**
-
-- 📫 How to reach me **[mail@roldex.codes](mailto:mail@roldex.codes)**
-
-- 📄 Know about my experiences **[r0ld3x](https://github.com/r0ld3x)**
-
-- ⚡ Fun fact **I think reading docs is better then watching tutorials**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
