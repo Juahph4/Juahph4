@@ -15,4 +15,4 @@
 
 <h3 align="left">Donate</h3>
 
-<a href="https://paypal.me/Tuscuentascom?country.x=CO&locale.x=es_XC"><img style="width: 40px;" src="https://logodownload.org/wp-content/uploads/2014/10/paypal-logo-0.png"></a>
+<a href="https://paypal.me/Tuscuentascom?country.x=CO&locale.x=es_XC"><img style="width: 100px;" src="https://logodownload.org/wp-content/uploads/2014/10/paypal-logo-0.png"></a>
