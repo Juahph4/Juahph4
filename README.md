@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm SlarpProdev</h1>
-<h3 align="center">I am a Programmer and Artistic 3D.🔅</h3>
+<h3 align="center">I am a Developer and 3d Artist.🔅</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=r0ld3x&label=Profile%20views&color=0e75b6&style=flat" alt="r0ld3x" /> </p>
 
