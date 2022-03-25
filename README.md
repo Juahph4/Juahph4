@@ -8,6 +8,6 @@
 <p align="left"> <a href="https://twitter.com/Slarpprodev" target="blank"><img src="https://img.shields.io/twitter/follow/Slarpprodev?logo=twitter&style=for-the-badge" alt="Juahph4" /></a> </p>
 
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Contact with me:</h3>
 
-<a href="mailto:juahph4@gmail.com">:v</a>
+<a href="mailto:juahph4@gmail.com"><img src="https://w7.pngwing.com/pngs/928/935/png-transparent-triangle-text-brand-communication-gmail-gmail-logo-angle-text-rectangle.png" alt></a>
